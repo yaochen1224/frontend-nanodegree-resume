@@ -59,19 +59,27 @@ bio.displayBio();
 var work = {
   "job" : [
   {
-  "title" : "Data Analyst",
+  "title" : "Data Analyst Intern",
   "employer" : "Millward Brown",
-  "years" : "In Progress",
+  "years" : "2016.01-2016.05",
   "location" : "Beijing, China",
-  "description" : "Dealt with data"
+  "description" : "♣	Designed surveys and assessed data quality to prepare accurate final deliverables to clients on their brand and communications strategy;<br/>♣	Incorporated a wide range of quantitative research methods for digital and traditional media campaign evaluation, media deployment evaluation, consumer digital media behavior understanding, brand health/equity tracking, and advanced path modeling analysis;<br/>♣	Visualized data into report so as to provide a market overview at both micro and macro level."
   },
   {
-  "title" : "Data Analyst",
-  "employer" : "Millward Brown",
-  "years" : "0.4",
-  "location" : "Beijing, China",
-  "description" : "Dealt with data"
-  }]
+  "title" : "Tutor",
+  "employer" : "The Beijing Center for Chinese Studies",
+  "years" : "2015.09-2016.02",
+  "location" : "Jeju island, South Korea",
+  "description" : "♣	Offered courses in Chinese Language and Culture;<br/>♣	Helped to improve across cultured experience for American and French exchange students"
+  },
+  {
+  "title" : "Chinese Teacher",
+  "employer" : "Chinese Language School of Jeju",
+  "years" : "2014.07",
+  "location" : "Jeju island, South Korea",
+  "description" : "♣	Tailored lesson plans to teach students who aged between 25 to 65 to speak Chinese and learned their motivation in learning Chinese."
+  }
+  ]
 }
 
 
@@ -160,12 +168,12 @@ education.displayEducation();
 var projects = {
   "project": [
     {"title":"STD Crisis",
-    "dates":"2016.11-2017.3",
+    "dates":"2016.11-2017.03",
     "description":"STD Crisis is an educational board game that teaches about what damages could STDs cause, and how to cure/prevent them.",
     "images":["images/organs.png", "images/STD.png","images/cureMethods.png"]
     },
     {"title":"AIESEC Global Community Development Programme",
-    "dates":"2014.7–2014.8",
+    "dates":"2014.07–2014.08",
     "description":"Gave daily lessons to local students and taught them to speak simple Chinese words.<br/>Sold handwriting postcards and collected donations to build a reading room for local students.<br/>Improved the lightening system in schools in slums.<br/>Designed and handed out brochures on the prevention of AIDS.",
     "images":["images/slum1.png", "images/slum2.png","images/slum3.png"]
     }
