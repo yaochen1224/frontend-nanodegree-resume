@@ -20,7 +20,8 @@ h6 {
 
 .education-entry,
 .work-entry,
-.project-entry {
+.project-entry,
+.onlineCourses{
   padding: 0 5%;
 }
 
@@ -40,10 +41,10 @@ h2 {
 }
 
 h3 {
-  font-style: italic;
   font-size: 20px;
-  color: #000;
+  color: #9E9E9E;
   line-height: 22px;
+  margin-top: 20px;
 }
 
 h4 {
@@ -165,6 +166,21 @@ ul {
 
 img {
   padding: 10px;
+}
+
+div.project-img {
+  margin: 0 auto;
+}
+
+div.project-img img{
+  height: 200px;
+  width: auto;
+  flex-wrap: wrap;
+  vertical-align: middle;
+}
+
+.url{
+  color: #616161;
 }
 
 span {
